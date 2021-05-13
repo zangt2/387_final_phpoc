@@ -19,7 +19,9 @@ For preparation, you need to have:
  And install:
  
       1. phpoc debugger
+      
+      2. Arduino IDE 1.8.14 (updated version is probably fine)
 
-      2. Arduino Library of SPI.h and Phpoc.h
+      3. Arduino Library of SPI.h and Phpoc.h
  
  The demonstration link is also included in the Wiki page. 
